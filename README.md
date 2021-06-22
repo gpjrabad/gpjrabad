@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gpjrabad
+- 👋 Hi, I’m JR Abad
 - 👀 I’m interested in R, Data Viz using R
 - 🌱 I’m currently learning Tableau, R Markdown to for data visualisation, SQLPostgres
 - 💞️ I’m looking to collaborate on 
